@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://home.cats.pm/'
+baseURL = 'https://home.cats.pm/zh/'
 title = 'cats.pm'
 theme = 'hugo-book'
 
@@ -22,6 +22,7 @@ enableGitInfo = true
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 
 defaultContentLanguage = 'zh'
+defaultContentLanguageInSubdir = true
 
 [languages]
 
@@ -32,7 +33,7 @@ defaultContentLanguage = 'zh'
 
 [languages.en]
   languageName = 'English'
-  contentDir = 'content.en'
+  contentDir = 'content.zh'
   weight = 2
 
 [menu]
