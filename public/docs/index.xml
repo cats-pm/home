@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on cats.pm</title>
+    <link>https://home.cats.pm/zh/docs/</link>
+    <description>Recent content in Docs on cats.pm</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://home.cats.pm/zh/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://home.cats.pm/zh/docs/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://home.cats.pm/zh/docs/contacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>反溯源方案</title>
+      <link>https://home.cats.pm/zh/docs/traceback_manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://home.cats.pm/zh/docs/traceback_manual/</guid>
+      <description>在数字化世界里，个人隐私和身份保护越来越重要。本文主要介绍如何实施反溯源方案。
+我们为什么要隐藏自己？有两个主要的原因：
+防止被施虐者溯源后，侵害到本人和家人的人身安全。这是最直接的原因。 防止被境外势力渗透，影响项目的纯粹性。 溯源的基本逻辑包括昵称，邮箱，手机号，微博账户等。
+现在让我们详细讨论一下我们如何使用一些工具来实现反溯源。
+聊天工具 telegram # Telegram是一款以安全性闻名的聊天工具，为我们提供了很好的隐私保护功能。
+为什么我们不能使用微信、QQ？ # 微信是一款非常受欢迎的聊天工具，但其对用户隐私的保护并不如Telegram。此外，微信、QQ的服务器位于中国，受中国法律和政策的影响，可能会对用户隐私产生风险。
+为什么不能用wechat？
+文件传输 p2p # 对于文件传输，我们推荐使用P2P（点对点）方式。
+为什么我们不能使用百度网盘？ # 虽然百度网盘在中国非常受欢迎，但是其并未提供端到端加密，这就意味着你的文件在传输过程中可能会被其他人截取。而P2P文件传输能够提供更高级别的安全保障。
+文档编辑 github # Github可以隐藏用户邮箱，避免泄露个人信息，与本地Git客户端相比，Github提供了更多的隐私保护选项。
+为什么我们不能使用本地git客户端？ # 使用本地git客户端可能会泄漏你的个人邮箱，这是因为git提交记录中包含了提交者的邮箱地址。而在Github中，我们可以选择隐藏这个邮箱，从而更好的保护我们的身份。</description>
+    </item>
+    
+  </channel>
+</rss>

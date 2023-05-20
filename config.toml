@@ -21,19 +21,19 @@ enableGitInfo = true
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 
-defaultContentLanguage = 'zh'
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 [languages]
 
 [languages.zh]
   languageName = 'Chinese'
-  contentDir = 'content.zh'
+  contentDir = 'content.en'
   weight = 1
 
 [languages.en]
   languageName = 'English'
-  contentDir = 'content.zh'
+  contentDir = 'content.en'
   weight = 2
 
 [menu]
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = true
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
-  # BookMenuBundle = '/menu'
+  BookMenuBundle = '/menu'
 
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
