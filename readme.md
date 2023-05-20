@@ -1,5 +1,9 @@
 #  Give a Kitty a Home
 
+</br>
+<image src="https://github.com/cats-pm/home/blob/main/assets/IMG_7700.JPG?raw=true" height="300">
+  
+</br>
 ## 如何有效地阻止虐待动物的行为
 
 - 报警：当面临动物虐待事件时，可以拨打当地公安机关的电话，及时向公安机关报案;
