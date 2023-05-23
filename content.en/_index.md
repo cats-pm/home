@@ -10,7 +10,7 @@ type: docs
 1. **通过与监管、平台、志愿者合作，有效阻止“恐怖暴力信息”在中国境内网络的传播。** 
 2. **加快推进立法程序，为阻止恐怖暴力在社会中的扩散奠定坚实的法律基础。** 
 
-![This is my image](https://raw.githubusercontent.com/cats-pm/home/main/assets/IMG_7700.JPG)
+![This is my image](/assets/IMG_7700.JPG)
 
 
 ## 如何有效地阻止“虐待动物”的行为？
